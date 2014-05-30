@@ -166,6 +166,6 @@ pip-log.txt
 /ProjectTemplates/NuGet/output
 
 # Protobuild Generated Files
-MonoGame.Framework.Content.Pipeline/*.csproj
-MonoGame.Framework/*.csproj
-/*.sln
+*.csproj
+*.csproj
+*.sln
