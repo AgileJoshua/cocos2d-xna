@@ -164,3 +164,8 @@ pip-log.txt
 # Mac crap
 .DS_Store
 /ProjectTemplates/NuGet/output
+
+# Protobuild Generated Files
+MonoGame.Framework.Content.Pipeline/*.csproj
+MonoGame.Framework/*.csproj
+/*.sln
