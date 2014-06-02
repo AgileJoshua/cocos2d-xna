@@ -1185,7 +1185,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\box2d\box2d.Windows8.csproj">
-      <Project>{b81b6701-7a78-4846-bf6f-04e0591f0f38}</Project>
+      <Project>{10d1ff40-af91-4fa5-b16c-33c3ad52a7a6}</Project>
       <Name>box2d.Windows8</Name>
     </ProjectReference>
     <ProjectReference Include="..\MonoGame\MonoGame.Framework\MonoGame.Framework.Net.Windows8.csproj">
